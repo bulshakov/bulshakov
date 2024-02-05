@@ -1,4 +1,31 @@
-### Hi there 👋
+# ❓
+❓
+
+
+> [!NOTE]
+> ❓
+
+## ❓
+- ❓
+- ❓
+- ❓
+  - [X] ❓
+  - [X] ❓
+  - [X] ❓
+  - [ ] ❓
+  - [X] ❓
+
+## ❓
+- ❓
+- ❓
+- ❓
+- ❓
+
+## ❓
+> [!WARNING]
+> ❓
+
+❓
 
 <!--
 **bulshakov/bulshakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
